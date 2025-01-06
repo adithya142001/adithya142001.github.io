@@ -1,6 +1,6 @@
 # adithya142001.github.io
 
-#Data Scientist 
+# Data Scientist 
 
 ### Education 
 
