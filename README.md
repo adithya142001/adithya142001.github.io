@@ -19,5 +19,4 @@ This portfolio is a curated collection of my work in data science, demonstrating
 # Contents
 - **Predicting Movie Rental Durations:** Here I utilized several different supervised learning techniques to accurately predict the duration a movie is rented. This showcases my knowledge of data pre-processing, model selection, and hyper-parameter tuning. 
 - **Clustering Penguin Species:** Here unsupervised learning clustering techniques were used on Penguin's data, to seperate them into their different species. Qualitative techniques were used to identify the correct number of clusters/species.
-- 
 
